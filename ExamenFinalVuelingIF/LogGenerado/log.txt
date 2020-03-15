@@ -4,3 +4,4 @@
 [27/02/2020 13:55:44] The model item passed into the dictionary is of type 'System.Collections.Generic.List`1[ExamenFinalVuelingIF.Models.VMtransactionBySku]', but this dictionary requires a model item of type 'System.Collections.Generic.IEnumerable`1[ExamenFinalVuelingIF.Models.Transaction]'.
 [27/02/2020 14:22:52] The model item passed into the dictionary is of type 'System.Collections.Generic.List`1[ExamenFinalVuelingIF.Models.Transaction]', but this dictionary requires a model item of type 'System.Collections.Generic.IEnumerable`1[ExamenFinalVuelingIF.Models.VMtransactionBySku]'.
 [27/02/2020 16:16:05] Fallo en el repositorio Transaction
+[15/03/2020 01:31:12] Fallo en el repositorio Transaction

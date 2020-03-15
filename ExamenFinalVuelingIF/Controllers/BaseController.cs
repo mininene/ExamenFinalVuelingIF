@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace ExamenFinalVuelingIF.Controllers
 {
-    public class BaseController:Controller
+    public abstract class BaseController:Controller
     {
         protected override void OnException(ExceptionContext filterContext)
         {
